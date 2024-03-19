@@ -99,7 +99,7 @@ function init() {
   // ===== 📦 OBJECTS =====
   {
     loader.load(
-      'sofa.glb',
+      'otie.glb',
       (gltf) => {
         sofa = gltf.scene
         sofa.castShadow = true
