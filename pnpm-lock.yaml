@@ -9,8 +9,8 @@ dependencies:
     specifier: ^0.19.2
     version: 0.19.2
   three:
-    specifier: ^0.157.0
-    version: 0.157.0
+    specifier: ^0.164.1
+    version: 0.164.1
 
 devDependencies:
   '@types/three':
@@ -483,8 +483,8 @@ packages:
     engines: {node: '>=0.10.0'}
     dev: true
 
-  /three@0.157.0:
-    resolution: {integrity: sha512-CeAwQrf4x3z0/e+MC4F+nXLW5t0gh3pw+L6CCBqpHvOq3bGYIgRYub7Pv0j/9wR+d++OiEglyZzWyuSYbwWGOA==}
+  /three@0.164.1:
+    resolution: {integrity: sha512-iC/hUBbl1vzFny7f5GtqzVXYjMJKaTPxiCxXfrvVdBi1Sf+jhd1CAkitiFwC7mIBFCo3MrDLJG97yisoaWig0w==}
     dev: false
 
   /typescript@5.4.3:
